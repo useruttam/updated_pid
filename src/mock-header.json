@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "labelname": "Patient Name:  ",
+    "valuex": "abc def"
+  },
+  {
+    "id": 2,
+    "labelname": "Patient ID: ",
+    "valuex": "12345ff"
+  },
+  {
+    "id": 3,
+    "labelname": "Blood Group:  ",
+    "valuex": "A+"
+  }
+]
